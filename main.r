@@ -1,4 +1,4 @@
-print("hello world")
+
 
 (primeiro.vetor0 <- c(1,3,4,5,6,10))
 (primeiro.vetor1 <- c(1,3,4,5,6,10))
